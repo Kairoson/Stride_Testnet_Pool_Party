@@ -1,5 +1,3 @@
-# Stride_Testnet_Pool_Party
-Stride_Testnet_Pool_Party
 
 <h1 align="center">Stride - Poll Party! </h1>
 
